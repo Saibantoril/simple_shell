@@ -155,6 +155,6 @@ No known Bugs.
 
 ## TEAM
 Damilola Idris  : [LinkedIn/Damilola Idris] | [GitHub/LadyDammy]\
-Banji Odukoya : [LinkedIn/Banji Odukoya] | [GitHub/Saibantoril]
+Banji Odukoya : [LinkedIn/Saheed Odukoya] | [GitHub/Saibantoril]
 
  
